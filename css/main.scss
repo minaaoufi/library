@@ -13,7 +13,7 @@ a{
   font-size: 1.3rem;
 }
 .logo{
-  margin-right: 15em;
+ 
   color:red;
   font-weight: bolder;
   
@@ -71,7 +71,7 @@ nav {
 }
 header {
  display: flex;
- justify-content:end;
+ justify-content:space-between;
  
 
    svg {
