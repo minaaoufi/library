@@ -54,7 +54,7 @@ nav ul a:hover {
 .hero-img {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 0px;
   background: url("../images/hero-img1.jpg");
   background-size: cover;
   width: 100%;
@@ -205,7 +205,7 @@ section.hero svg path {
   }
   .hero-img {
     left: unset;
-    right: 0;
+    right: -5em;
     width: 50%;
     height: 30em;
     background-position-x: 20%;
