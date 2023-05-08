@@ -205,6 +205,7 @@ section.hero svg path {
     transition: all .4s;
   }
   .hero-img {
+    margin: 0;
     left: unset;
     right: -5em;
     width: 60%;
